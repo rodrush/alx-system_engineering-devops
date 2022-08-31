@@ -13,3 +13,4 @@
 12-file_type-script that prints the type of the file 
 13-symbolic_link-Create a symbolic link
 14-copy_html-Create a script that copies all the HTML files from the current working directory to the parent of the working directory
+100-lets_move-Create a script that moves all files beginning with an uppercase letter
