@@ -9,3 +9,6 @@
 8-firstdelete-Delete the file betty.
 9-firstdirdeletion-Delete the directory my_first_directory that is in the /tmp directory.
 10-back-Write a script that changes the working directory to the previous one.
+11-lists-script that lists all filesin the current directory and the parent of the working directory
+12-file_type-script that prints the type of the file 
+13-symbolic_link-Create a symbolic link
